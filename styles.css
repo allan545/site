@@ -1,0 +1,24 @@
+body {
+     color:white;
+     background: black;
+     margin: 0px;
+}
+
+header {
+     border: solid 2px rgb(227, 24, 24);
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(42, 122, 228);
+}
+
+secretion {
+background: rgb(184,156,213);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+     margin-right: 5%;
+}
