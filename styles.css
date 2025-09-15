@@ -12,7 +12,7 @@ header {
      color: rgb(42, 122, 228);
 }
 
-secretion {
+.chamada {
 background: rgb(250, 8, 8);
 padding-bottom: 80px;
 padding-top: 80px;
@@ -33,4 +33,15 @@ p {
 }
 img {
      height: 200px;
+}
+
+.categoria-videos {
+     display: flex;
+     overflow-x: auto;
+     gap: 10px;
+}
+
+section {
+     padding-left: 20px;
+     padding-right: 20px;
 }
